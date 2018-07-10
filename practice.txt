@@ -1,6 +1,3 @@
-name = "Sara"
-puts name
-name = "Susan"
-puts name
-name = "Stroud"
-puts name
+first_name = "Sara"
+last_name = "Stroud"
+age = "17"
