@@ -1,2 +1,6 @@
 name = "Sara"
 puts name
+name = "Susan"
+puts name
+name = "Stroud"
+puts name
