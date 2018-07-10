@@ -1,3 +1,6 @@
 first_name = "Sara"
 last_name = "Stroud"
 age = "17"
+puts first_name
+puts last_name
+puts age
