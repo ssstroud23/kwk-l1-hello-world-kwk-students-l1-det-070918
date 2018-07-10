@@ -1,1 +1,2 @@
-name = "Vanessa" puts name
+name = "Vanessa"
+puts name
